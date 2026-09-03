@@ -99,6 +99,7 @@ Matplotlib
 
 ## Repository
 
-- `my_portfolio_regression_final_version6.ipynb` — complete analysis and modelling workflow
-- `README.md` — project overview and results
-- `requirements.txt` — Python dependencies
+* `bike_order_value_prediction.ipynb` — complete analysis and modelling workflow
+* `data/bike_orderlines_df.csv` — dataset used in the project
+* `README.md` — project overview and results
+* `requirements.txt` — Python dependencies
