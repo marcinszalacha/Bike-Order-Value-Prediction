@@ -1,0 +1,7 @@
+pandas==2.2.3
+scikit-learn==1.6.1
+xgboost==3.4.1
+pycaret==4.0.0a8
+statsmodels
+matplotlib
+numpy
