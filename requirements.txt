@@ -2,6 +2,6 @@ pandas==2.2.3
 scikit-learn==1.6.1
 xgboost==3.4.1
 pycaret==4.0.0a8
-statsmodels
-matplotlib
-numpy
+statsmodels==0.14.5
+matplotlib==3.10.0
+numpy==2.2.6
